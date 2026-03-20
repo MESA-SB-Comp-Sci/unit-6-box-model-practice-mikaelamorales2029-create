@@ -2,3 +2,14 @@
     box-sizing: border-box;
 }
 
+h2 {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    padding: 50px;
+    border: 5px solid red;
+    border-style:groove;
+    border-color: black;
+    margin: 50px;
+}
+
