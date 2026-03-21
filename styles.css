@@ -13,3 +13,30 @@ h2 {
     margin: 50px;
 }
 
+img {
+    width:200px;
+    border-style:dotted;
+    padding:5px;
+    margin:158px;
+
+}
+
+h1{
+    background-color:darkcyan;
+    text-align:center;
+    padding:50px;
+    border:25px solid rgb(42,134,225);
+    border-style:dotted;
+}
+
+p{
+    padding:50px
+    border-color:blue;
+    border:25px
+}
+
+background-color{
+    color:darkcyan;
+}
+    
+
